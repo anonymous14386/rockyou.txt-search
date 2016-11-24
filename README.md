@@ -2,6 +2,8 @@
 
 This is a simple script I made to search the rockyou.txt wordlist included with Kali.
 
+You will need to either download a copy of rockyou.txt or allow the script to download and unzip it for you.
+
 If you don't know how to use this here's instructions:
 
 1. Open the directory in terminal (this won't work in Windows)
